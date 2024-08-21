@@ -4,7 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f56aab6e-56f0-4996-949d-6b79a78ca262" name="更改" comment="格式化仓库" />
+    <list default="true" id="f56aab6e-56f0-4996-949d-6b79a78ca262" name="更改" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/categories/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/test/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/test/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/测试/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/测试/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/测试/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar_hu5915161276633400886.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/chinese-test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/head_hu15300065914837682829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/head_hu1744030287130482025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/head_hu3570844366880542483.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/luca-bravo-alS7ewQ41M8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/luca-bravo-alS7ewQ41M8-unsplash_hu10664154974910995856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/luca-bravo-alS7ewQ41M8-unsplash_hu2018237820240201481.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hello-hugo/luca-bravo-alS7ewQ41M8-unsplash_hu8283485329313927682.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/hhh/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13380208884366868750.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu13768363498926278726.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu15102473124145023839.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu4180424280031756831.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu4699868770670889127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu4773291511026196957.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu8363585391189779282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu11726476772237334826.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu15886963791847885497.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu12475395149584884402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu1712544344331247820.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hello-hugo/head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hello-hugo/luca-bravo-alS7ewQ41M8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hhh/florian-klauer-nptLmg6jqDo-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hhh/helena-hertz-wWZzXlDpMog-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hhh/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hhh/luca-bravo-alS7ewQ41M8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.min.e8c7fca7d1c9294aa7a4f3426c225ee26540f7d94e39be0b5a4a5c8a49ca5a25.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hello/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hello/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hello/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hugo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hugo/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hugo/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tag/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tag/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tag/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/main.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +100,7 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2kxTQio45zQQh4zpEV727e0tOJn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +114,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,6 +126,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\32567\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="f56aab6e-56f0-4996-949d-6b79a78ca262" name="更改" comment="" />
@@ -64,6 +139,7 @@
       <workItem from="1724224214441" duration="149000" />
       <workItem from="1724240317444" duration="132000" />
       <workItem from="1724240456035" duration="298000" />
+      <workItem from="1724241078654" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="```plaintextdocs(404.html): 更新描述和社交媒体链接更新了404页面的元描述以增加博客的欢迎信息，并更正了Canonical链接以反映GitHub页面的URL。此外，添加了Twitter&#10;描述元标签，并修改了favicon链接以指向正确的图像路径。categories, tags 页面：增加类别和标签云部分，以及文章列表的时间格式化。&#10;```">
       <option name="closed" value="true" />
@@ -81,15 +157,27 @@
       <option name="project" value="LOCAL" />
       <updated>1724240507472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <option name="closed" value="true" />
+      <created>1724241432487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724241432488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="```plaintextdocs(404.html): 更新描述和社交媒体链接更新了404页面的元描述以增加博客的欢迎信息，并更正了Canonical链接以反映GitHub页面的URL。此外，添加了Twitter&#10;描述元标签，并修改了favicon链接以指向正确的图像路径。categories, tags 页面：增加类别和标签云部分，以及文章列表的时间格式化。&#10;```" />
     <MESSAGE value="格式化仓库" />
-    <option name="LAST_COMMIT_MESSAGE" value="格式化仓库" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
