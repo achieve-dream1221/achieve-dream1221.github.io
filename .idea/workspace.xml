@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f56aab6e-56f0-4996-949d-6b79a78ca262" name="更改" comment="格式化仓库" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;achieve-dream1221&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/achieve-dream1221/achieve-dream1221.github.io&quot;,
+    &quot;accountId&quot;: &quot;553d2377-bbb4-4433-a25a-8d2f1f18b78e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kxTQio45zQQh4zpEV727e0tOJn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.342" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f56aab6e-56f0-4996-949d-6b79a78ca262" name="更改" comment="" />
+      <created>1724224213352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724224213352</updated>
+      <workItem from="1724224214441" duration="149000" />
+      <workItem from="1724240317444" duration="132000" />
+      <workItem from="1724240456035" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="```plaintextdocs(404.html): 更新描述和社交媒体链接更新了404页面的元描述以增加博客的欢迎信息，并更正了Canonical链接以反映GitHub页面的URL。此外，添加了Twitter&#10;描述元标签，并修改了favicon链接以指向正确的图像路径。categories, tags 页面：增加类别和标签云部分，以及文章列表的时间格式化。&#10;```">
+      <option name="closed" value="true" />
+      <created>1724224261248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724224261248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="格式化仓库">
+      <option name="closed" value="true" />
+      <created>1724240507472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724240507472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="```plaintextdocs(404.html): 更新描述和社交媒体链接更新了404页面的元描述以增加博客的欢迎信息，并更正了Canonical链接以反映GitHub页面的URL。此外，添加了Twitter&#10;描述元标签，并修改了favicon链接以指向正确的图像路径。categories, tags 页面：增加类别和标签云部分，以及文章列表的时间格式化。&#10;```" />
+    <MESSAGE value="格式化仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="格式化仓库" />
+  </component>
+</project>
